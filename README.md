@@ -153,7 +153,15 @@ You now have a functioning **SOC lab** that mimics a real-world blue team setup:
 * Supports learning of **SIEM**, **Sysmon**, and **threat detection**
 * Fully customizable for red team and blue team scenarios
 
+
 ---
 
-Let me know if you want me to generate a custom Splunk dashboard, detection rules, or a visual architecture diagram to include in your repo!
+## 📬 Contact
+
+If you have any questions, feedback, or opportunities for collaboration, feel free to reach out.
+
+* Name: Aishat Olayinka Yususf
+* LinkedIn: [www.linkedin.com/in/aishat-olayinka-yusuf-3a16aa1b4]
+
+---
 
